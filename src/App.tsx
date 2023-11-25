@@ -1,12 +1,11 @@
+import Home from "./pages/Home/Home";
 
 function App() {
-
   return (
     <>
-      <h1>Welcome to my Job Portal</h1>
-      <p className='bg-green-200'>Your career go to the next level</p>
+      <Home />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -1,0 +1,7 @@
+1. Install projects
+2. setup and install tailwind css
+3. Install React Router DOM and Redux-Toolkit
+4. Header-Navbar component
+5. Banner component
+6. Job Features
+7. Footer section
