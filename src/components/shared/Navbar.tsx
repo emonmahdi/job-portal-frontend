@@ -45,7 +45,7 @@ const Navbar = () => {
         {/* Nav Items */}
         <div>
           <ul
-            className={`md:flex md:items-center md:pb-0 pb-12 absolute md:static  bg-blue-100 lg:bg-transparent md:bg-transparent md:z-auto left-0 w-full md-w-auto md:pl-0 pl-9 transition-all duration-500 ease-in ${
+            className={`md:flex md:items-center md:pb-0 pb-12 absolute md:static  bg-blue-100 lg:bg-transparent md:bg-transparent md:z-auto z-[9999] left-0 w-full md-w-auto md:pl-0 pl-9 transition-all duration-500 ease-in ${
               open
                 ? "top-14 opacity-100"
                 : "top-[-490px] md:opacity-100 opacity-0"
