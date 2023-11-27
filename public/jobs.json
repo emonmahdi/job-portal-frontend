@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "React Developer",
+    "duration": "Full Time",
+    "salary": "28K - 35K",
+    "vacancy": 5,
+    "deadline": "20 Dec 2023"
+  },
+  {
+    "id": 2,
+    "title": "Mern Developer",
+    "duration": "Full Time",
+    "salary": "20K - 25K",
+    "vacancy": 10,
+    "deadline": "12 Dec 2023"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "duration": "Full Time",
+    "salary": "25K - 35K",
+    "vacancy": 21,
+    "deadline": "10 Dec 2023"
+  }
+]
