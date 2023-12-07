@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Accounting and Finance",
+    "availableJob": 12,
+    "icon": "react-icon"
+  },
+  {
+    "id": 2,
+    "title": "Technology",
+    "availableJob": 22,
+    "icon": "react-icon"
+  },
+  {
+    "id": 3,
+    "title": "Marketing and Sales",
+    "availableJob": 12,
+    "icon": "react-icon"
+  },
+  {
+    "id": 4,
+    "title": "Medical And Nurse",
+    "availableJob": 5,
+    "icon": "react-icon"
+  },
+  {
+    "id": 5,
+    "title": "Development",
+    "availableJob": 23,
+    "icon": "react-icon"
+  },
+  {
+    "id": 6,
+    "title": "Engineering",
+    "availableJob": 8,
+    "icon": "react-icon"
+  },
+  {
+    "id": 7,
+    "title": "Accounting and Finance",
+    "availableJob": 12,
+    "icon": "react-icon"
+  },
+  {
+    "id": 8,
+    "title": "Bank Job",
+    "availableJob": 10,
+    "icon": "react-icon"
+  }
+]

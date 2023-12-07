@@ -11,48 +11,46 @@ const Footer = () => {
         className="px-12 py-20"
       >
         <div className="container mx-auto">
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 mb-4">
             {/* Column 1 */}
             <div>
-              <h2 className="text-2xl font-bold mb-4">Column 1</h2>
+              <h2 className="text-2xl font-bold mb-4">About Company</h2>
               <ul>
-                <li>Link 1</li>
-                <li>Link 2</li>
-                <li>Link 3</li>
-                {/* Add more links as needed */}
+                <li>Contact Us</li>
+                <li>Terms & Condition</li>
+                <li>Privacy & Policy</li>
+                <li>Candidate Listing</li>
               </ul>
             </div>
 
             {/* Column 2 */}
             <div>
-              <h2 className="text-2xl font-bold mb-4">Column 2</h2>
+              <h2 className="text-2xl font-bold mb-4">For Candidate’s</h2>
               <ul>
-                <li>Link 1</li>
-                <li>Link 2</li>
-                <li>Link 3</li>
-                {/* Add more links as needed */}
+                <li>Create Resume</li>
+                <li>Browse Categories</li>
+                <li>Save Jobs List</li>
+                <li>Candidate Dashboard</li>
               </ul>
             </div>
 
             {/* Column 3 */}
             <div>
-              <h2 className="text-2xl font-bold mb-4">Column 3</h2>
+              <h2 className="text-2xl font-bold mb-4">For Employer’s</h2>
               <ul>
-                <li>Link 1</li>
-                <li>Link 2</li>
-                <li>Link 3</li>
-                {/* Add more links as needed */}
+                <li>Post A Job</li>
+                <li>Job Packages</li>
+                <li>Jobs Featured</li>
+                <li>Employer Dashboard</li>
               </ul>
             </div>
 
             {/* Column 4 */}
             <div>
-              <h2 className="text-2xl font-bold mb-4">Column 4</h2>
+              <h2 className="text-2xl font-bold mb-4">Download App</h2>
               <ul>
-                <li>Link 1</li>
-                <li>Link 2</li>
-                <li>Link 3</li>
-                {/* Add more links as needed */}
+                <li>Google Play Store</li>
+                <li>App Store</li>
               </ul>
             </div>
           </div>

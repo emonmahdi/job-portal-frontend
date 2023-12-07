@@ -1,4 +1,5 @@
 import Banner from "../../components/home/Banner";
+import CategoriesJobs from "../../components/home/CategoriesJobs";
 import FeaturedJobs from "../../components/home/FeaturedJobs";
 import Footer from "../../components/shared/Footer";
 import Navbar from "../../components/shared/Navbar";
@@ -9,6 +10,7 @@ const Home = () => {
     <div>
       <Navbar />
       <Banner />
+      <CategoriesJobs />
       <FeaturedJobs />
       <Footer />
       {/* <Counter /> */}

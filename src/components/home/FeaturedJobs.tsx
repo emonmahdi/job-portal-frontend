@@ -29,12 +29,8 @@ const FeaturedJobs = () => {
         <div className="title">
           <h2 className="text-4xl font-bold mb-4">
             Latest <span className="text-[#00A7AC]">Featured</span> Jobs{" "}
-            {jobs.length}
           </h2>
-          <p>
-            To choose your trending job dream & to make future bright.{" "}
-            {jobs?.length}
-          </p>
+          <p>To choose your trending job dream & to make future bright. </p>
         </div>
         <div className="more-explore">
           <Button>Explore More</Button>
